@@ -17,7 +17,7 @@
     <td style="text-align: right; border: none; height: 20em;">
         <div style="float: right;" align="left">
             <b>Разработал</b>: <br/>
-           Минин Дмитрий Николаевич <br/>
+           Светлаков Кирилл Иванович <br/>
             <b>Проверил</b>: <br/>
             Колесников Евгений Иванович
         </div>
